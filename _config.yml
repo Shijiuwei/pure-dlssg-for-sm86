@@ -1,0 +1,5 @@
+title: "pure-dlssg-for-sm86"
+description: "High availability  and network topology specifications for sdli1995/dlssg_for_sm86 | Core specifications, benchmarks and developer documentation."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
